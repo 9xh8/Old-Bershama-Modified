@@ -21,6 +21,7 @@ MemoryCaptures/
 *.opendb
 *.VC.db
 *.bak
+*.meta
 
 # =============== #
 # Visual Studio   #
